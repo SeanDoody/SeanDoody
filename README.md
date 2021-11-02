@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SeanDoody
-- 👀 I’m interested in full-time employment as an entry-level Angular developer.
+- 👀 I’m looking for full-time employment as an Junior Front-End Angular developer.
 - 🌱 I’m currently building my Angular development skills beyond what I learned in Grand Circus' Front-End Bootcamp.
 - 📫 How to reach me: sdoody95@gmail.com
