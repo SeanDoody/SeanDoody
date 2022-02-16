@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SeanDoody
 - 👀 I’m looking for full-time employment as an entry-level front-end developer.
-- 🌱 I completed Grand Circus' front-end bootcamp in March 2021 (focused on Angular). I am working on increasing my front-end knowledge, building upon the Angular skills that I already have and learning how to use React.
+- 🌱 I completed Grand Circus' front-end bootcamp in March 2021 (focused on Angular). I am working on increasing my front-end knowledge, building upon the Angular skills that I already have, and starting to use React. I am also learning more about back-end with the goal of eventually becoming a full-stack developer.
 - 📫 How to reach me: sdoody95@gmail.com
